@@ -27,26 +27,29 @@ function AdaptData(data) {
 }
 
 function AdaptElements(data) {
-	$("#empty-container").hide();
-	// $("#graphics-container").show();
-	$("#graphics-container").css("visibility", "visible");
-	$("#machine_name_tcp").empty();
-	$("#machine_name_udp").empty();
-	$("#machine_name_tcp").append(`${data.Datos[0].Maquina}`);
-	$("#machine_name_udp").append(`${data.Datos[0].Maquina}`);
-	$("#time_tcp").empty();
-	$("#time_udp").empty();
-	$("#time_tcp").append(
-		`Inicio: ${data.Datos[0].Fecha} <br/> Fin: ${
-			data.Datos[data.Datos.length - 1].Fecha
-		}`
-	);
-	$("#time_udp").append(
-		`Inicio: ${data.Datos[0].Fecha} <br/> Fin: ${
-			data.Datos[data.Datos.length - 1].Fecha
-		}`
-	);
+	if (data) {
+		var propStr = "";
+		// var prop = JSON.parse(Object.getOwnPropertyNames(data.Datos[0]));
+		// console.log(prop);
+		// $("#graphics-container").show();
+		$("#empty-container").hide();
+		$("#graphics-container").css("visibility", "visible");
+		$("#machine_name").empty();
+		$("#machine_name").append(`${data.Datos[0].Maquina}`);
+		$("#time_graphic").empty();
+		$("#time_graphic").append(
+			`Inicio: ${data.Datos[0].Fecha} <br/> Fin: ${
+				data.Datos[data.Datos.length - 1].Fecha
+			}`
+		);
+		$("#time_machine").empty();
+		$("#time_machine").append(`${data.Datos[data.Datos.length - 1].upTime}`);
+		$("#variables").empty();
+		$("#variables").append(`${propStr}`);
+	}
 }
+
+function ConvertTickToDate() {}
 
 $("#graphics-container").css("visibility", "hidden");
 $("#empty-container").show();
