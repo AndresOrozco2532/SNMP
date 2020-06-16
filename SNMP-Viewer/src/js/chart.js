@@ -15,8 +15,8 @@ function AdaptData(data) {
 
 			udpData.push({
 				Fecha: info.Fecha,
-				udpInSegs: info.tcpInSegs,
-				udpOutSegs: info.tcpOutSegs,
+				udpInSegs: info.udpInSegs,
+				udpOutSegs: info.udpOutSegs,
 			});
 		});
 
@@ -43,8 +43,8 @@ var graphUDP = Morris.Line({
 	element: "udpChart",
 	data: dataInitialUDP,
 	xkey: "Fecha",
-	ykeys: ["updpInSegs", "udpOutSegs"],
-	labels: ["updpInSegs", "udpOutSegs"],
+	ykeys: ["udpInSegs", "udpOutSegs"],
+	labels: ["udpInSegs", "udpOutSegs"],
 	resize: true,
 	parseTime: false,
 	hideHover: true,
@@ -55,18 +55,18 @@ var graphUDP = Morris.Line({
 // Initial Values
 var dataInitialTCP = [
 	{
-		Fecha: "2020/06/14 19:32:24",
-		tcpInSegs: "27",
-		tcpOutSegs: "33",
-		upTime: "0:01:21.81",
+		Fecha: "",
+		tcpInSegs: "",
+		tcpOutSegs: "",
+		upTime: "",
 	},
 ];
 
 var dataInitialUDP = [
 	{
-		Fecha: "2020/06/14 19:32:24",
-		udpInSegs: "54",
-		udpOutSegs: "95",
-		upTime: "0:01:21.81",
+		Fecha: "",
+		udpInSegs: "",
+		udpOutSegs: "",
+		upTime: "",
 	},
 ];
