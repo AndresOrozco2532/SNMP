@@ -1,5 +1,9 @@
 function AdaptData(data) {
 	if (data.Datos) {
+		$("#empty-container").hide();
+		// $("#graphics-container").show();
+		$("#graphics-container").css("visibility", "visible");
+
 		var tcpData = [];
 		var udpData = [];
 		if (data.Datos.length > 25) {
@@ -24,7 +28,8 @@ function AdaptData(data) {
 		graphUDP.setData(udpData);
 	}
 }
-
+$("#graphics-container").css("visibility", "hidden");
+$("#empty-container").show();
 var graphTCP = Morris.Line({
 	element: "tcpChart",
 	data: dataInitialTCP,

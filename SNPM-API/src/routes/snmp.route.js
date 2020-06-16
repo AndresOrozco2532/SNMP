@@ -1,10 +1,13 @@
+import dotenv from 'dotenv';
 import { Router } from 'express';
 import fs from 'fs';
 
 const router = Router();
+dotenv.config();
 
 router.get('/', (req, res) => {
-  var filePath = 'D:\\SNMP\\DataTest\\data.json';
+  var filePath = process.env.FILEPATH;
+  // var filePath = 'D:\\DataTest\\data.json';
 
   var file = fs.readFile(filePath, 'utf8', (err, data) => {
     return res.send(data);
