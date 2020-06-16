@@ -1,0 +1,1336 @@
+{
+  "Datos": [
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:32:24",
+      "tcpInSegs": "27",
+      "tcpOutSegs": "33",
+      "udpInSegs": "54",
+      "udpOutSegs": "95",
+      "upTime": "0:01:21.81"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:32:29",
+      "tcpInSegs": "27",
+      "tcpOutSegs": "33",
+      "udpInSegs": "66",
+      "udpOutSegs": "107",
+      "upTime": "0:01:26.95"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:32:34",
+      "tcpInSegs": "27",
+      "tcpOutSegs": "33",
+      "udpInSegs": "78",
+      "udpOutSegs": "119",
+      "upTime": "0:01:32.22"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:32:39",
+      "tcpInSegs": "27",
+      "tcpOutSegs": "33",
+      "udpInSegs": "90",
+      "udpOutSegs": "131",
+      "upTime": "0:01:37.33"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:44:48",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "105",
+      "udpOutSegs": "146",
+      "upTime": "0:13:46.24"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:44:53",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "117",
+      "udpOutSegs": "158",
+      "upTime": "0:13:51.34"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:44:58",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "129",
+      "udpOutSegs": "170",
+      "upTime": "0:13:56.44"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:45:03",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "141",
+      "udpOutSegs": "182",
+      "upTime": "0:14:01.54"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:45:08",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "153",
+      "udpOutSegs": "194",
+      "upTime": "0:14:06.65"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:45:14",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "165",
+      "udpOutSegs": "206",
+      "upTime": "0:14:11.75"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:45:19",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "177",
+      "udpOutSegs": "218",
+      "upTime": "0:14:16.85"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:45:24",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "189",
+      "udpOutSegs": "230",
+      "upTime": "0:14:21.95"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:45:29",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "201",
+      "udpOutSegs": "242",
+      "upTime": "0:14:27.05"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:45:34",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "213",
+      "udpOutSegs": "254",
+      "upTime": "0:14:32.15"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:45:39",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "225",
+      "udpOutSegs": "266",
+      "upTime": "0:14:37.24"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:45:44",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "237",
+      "udpOutSegs": "278",
+      "upTime": "0:14:42.34"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:45:49",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "249",
+      "udpOutSegs": "290",
+      "upTime": "0:14:47.44"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:45:54",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "261",
+      "udpOutSegs": "302",
+      "upTime": "0:14:52.54"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:45:59",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "273",
+      "udpOutSegs": "314",
+      "upTime": "0:14:57.65"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:46:05",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "285",
+      "udpOutSegs": "326",
+      "upTime": "0:15:02.76"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:46:10",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "297",
+      "udpOutSegs": "338",
+      "upTime": "0:15:07.87"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:46:15",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "309",
+      "udpOutSegs": "350",
+      "upTime": "0:15:12.98"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:46:20",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "321",
+      "udpOutSegs": "362",
+      "upTime": "0:15:18.09"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:46:25",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "333",
+      "udpOutSegs": "374",
+      "upTime": "0:15:23.20"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:46:30",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "345",
+      "udpOutSegs": "386",
+      "upTime": "0:15:28.30"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:46:35",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "357",
+      "udpOutSegs": "398",
+      "upTime": "0:15:33.41"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:46:40",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "369",
+      "udpOutSegs": "410",
+      "upTime": "0:15:38.51"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:46:45",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "381",
+      "udpOutSegs": "422",
+      "upTime": "0:15:43.61"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:46:51",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "393",
+      "udpOutSegs": "434",
+      "upTime": "0:15:48.72"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:46:56",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "405",
+      "udpOutSegs": "446",
+      "upTime": "0:15:53.82"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:47:01",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "417",
+      "udpOutSegs": "458",
+      "upTime": "0:15:58.92"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:47:06",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "429",
+      "udpOutSegs": "470",
+      "upTime": "0:16:04.02"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:47:11",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "441",
+      "udpOutSegs": "482",
+      "upTime": "0:16:09.12"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:47:16",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "453",
+      "udpOutSegs": "494",
+      "upTime": "0:16:14.22"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:47:21",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "465",
+      "udpOutSegs": "506",
+      "upTime": "0:16:19.34"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:47:26",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "477",
+      "udpOutSegs": "518",
+      "upTime": "0:16:24.44"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:47:31",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "489",
+      "udpOutSegs": "530",
+      "upTime": "0:16:29.55"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:47:36",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "501",
+      "udpOutSegs": "542",
+      "upTime": "0:16:34.65"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:47:42",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "514",
+      "udpOutSegs": "555",
+      "upTime": "0:16:39.75"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:47:47",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "526",
+      "udpOutSegs": "567",
+      "upTime": "0:16:44.86"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:47:52",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "538",
+      "udpOutSegs": "579",
+      "upTime": "0:16:49.96"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:47:57",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "550",
+      "udpOutSegs": "591",
+      "upTime": "0:16:55.06"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:48:02",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "562",
+      "udpOutSegs": "603",
+      "upTime": "0:17:00.17"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:48:07",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "574",
+      "udpOutSegs": "615",
+      "upTime": "0:17:05.28"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:48:12",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "586",
+      "udpOutSegs": "627",
+      "upTime": "0:17:10.39"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:48:17",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "598",
+      "udpOutSegs": "639",
+      "upTime": "0:17:15.50"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:48:22",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "610",
+      "udpOutSegs": "651",
+      "upTime": "0:17:20.60"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:48:28",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "622",
+      "udpOutSegs": "663",
+      "upTime": "0:17:25.70"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:48:33",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "634",
+      "udpOutSegs": "675",
+      "upTime": "0:17:30.80"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:48:38",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "646",
+      "udpOutSegs": "687",
+      "upTime": "0:17:35.90"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:48:43",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "658",
+      "udpOutSegs": "699",
+      "upTime": "0:17:41.00"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:48:48",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "670",
+      "udpOutSegs": "711",
+      "upTime": "0:17:46.09"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:48:53",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "682",
+      "udpOutSegs": "723",
+      "upTime": "0:17:51.19"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:48:58",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "694",
+      "udpOutSegs": "735",
+      "upTime": "0:17:56.29"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:49:03",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "706",
+      "udpOutSegs": "747",
+      "upTime": "0:18:01.40"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:49:08",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "718",
+      "udpOutSegs": "759",
+      "upTime": "0:18:06.50"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:49:13",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "730",
+      "udpOutSegs": "771",
+      "upTime": "0:18:11.60"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:49:19",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "742",
+      "udpOutSegs": "783",
+      "upTime": "0:18:16.70"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:49:24",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "754",
+      "udpOutSegs": "795",
+      "upTime": "0:18:21.80"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:49:29",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "766",
+      "udpOutSegs": "807",
+      "upTime": "0:18:26.90"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:49:34",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "778",
+      "udpOutSegs": "819",
+      "upTime": "0:18:32.01"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:49:39",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "790",
+      "udpOutSegs": "831",
+      "upTime": "0:18:37.11"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:49:44",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "802",
+      "udpOutSegs": "843",
+      "upTime": "0:18:42.21"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:49:49",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "814",
+      "udpOutSegs": "855",
+      "upTime": "0:18:47.31"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:49:54",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "826",
+      "udpOutSegs": "867",
+      "upTime": "0:18:52.42"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:49:59",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "838",
+      "udpOutSegs": "879",
+      "upTime": "0:18:57.52"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:50:04",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "850",
+      "udpOutSegs": "891",
+      "upTime": "0:19:02.63"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:50:10",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "862",
+      "udpOutSegs": "903",
+      "upTime": "0:19:07.74"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:50:15",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "874",
+      "udpOutSegs": "915",
+      "upTime": "0:19:12.84"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:50:20",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "886",
+      "udpOutSegs": "927",
+      "upTime": "0:19:17.95"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:50:25",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "898",
+      "udpOutSegs": "939",
+      "upTime": "0:19:23.05"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:50:30",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "910",
+      "udpOutSegs": "951",
+      "upTime": "0:19:28.15"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:50:35",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "922",
+      "udpOutSegs": "963",
+      "upTime": "0:19:33.25"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:50:40",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "934",
+      "udpOutSegs": "975",
+      "upTime": "0:19:38.35"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:50:45",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "946",
+      "udpOutSegs": "987",
+      "upTime": "0:19:43.45"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:50:50",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "958",
+      "udpOutSegs": "999",
+      "upTime": "0:19:48.55"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:50:55",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "970",
+      "udpOutSegs": "1011",
+      "upTime": "0:19:53.65"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:51:01",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "982",
+      "udpOutSegs": "1023",
+      "upTime": "0:19:58.76"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:51:06",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "994",
+      "udpOutSegs": "1035",
+      "upTime": "0:20:03.86"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:51:11",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1006",
+      "udpOutSegs": "1047",
+      "upTime": "0:20:08.97"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:51:16",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1018",
+      "udpOutSegs": "1059",
+      "upTime": "0:20:14.07"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:51:21",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1030",
+      "udpOutSegs": "1071",
+      "upTime": "0:20:19.18"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:51:26",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1042",
+      "udpOutSegs": "1083",
+      "upTime": "0:20:24.28"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:51:31",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1054",
+      "udpOutSegs": "1095",
+      "upTime": "0:20:29.39"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:51:36",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1066",
+      "udpOutSegs": "1107",
+      "upTime": "0:20:34.50"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:51:41",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1078",
+      "udpOutSegs": "1119",
+      "upTime": "0:20:39.60"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:51:47",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1090",
+      "udpOutSegs": "1131",
+      "upTime": "0:20:44.70"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:51:52",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1102",
+      "udpOutSegs": "1143",
+      "upTime": "0:20:49.81"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:51:57",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1114",
+      "udpOutSegs": "1155",
+      "upTime": "0:20:54.93"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:52:02",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1126",
+      "udpOutSegs": "1167",
+      "upTime": "0:21:00.05"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:52:07",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1138",
+      "udpOutSegs": "1179",
+      "upTime": "0:21:05.15"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:52:12",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1150",
+      "udpOutSegs": "1191",
+      "upTime": "0:21:10.26"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:52:17",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1162",
+      "udpOutSegs": "1203",
+      "upTime": "0:21:15.36"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:52:22",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1174",
+      "udpOutSegs": "1215",
+      "upTime": "0:21:20.46"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:52:27",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1186",
+      "udpOutSegs": "1227",
+      "upTime": "0:21:25.57"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:52:33",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1198",
+      "udpOutSegs": "1239",
+      "upTime": "0:21:30.67"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:52:38",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1210",
+      "udpOutSegs": "1251",
+      "upTime": "0:21:35.77"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:52:43",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1222",
+      "udpOutSegs": "1263",
+      "upTime": "0:21:40.87"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:52:48",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1234",
+      "udpOutSegs": "1275",
+      "upTime": "0:21:45.97"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:52:53",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1246",
+      "udpOutSegs": "1287",
+      "upTime": "0:21:51.09"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:52:58",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1258",
+      "udpOutSegs": "1299",
+      "upTime": "0:21:56.19"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:53:03",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1270",
+      "udpOutSegs": "1311",
+      "upTime": "0:22:01.30"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:53:08",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1282",
+      "udpOutSegs": "1323",
+      "upTime": "0:22:06.40"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:53:13",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1294",
+      "udpOutSegs": "1335",
+      "upTime": "0:22:11.51"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:53:18",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1306",
+      "udpOutSegs": "1347",
+      "upTime": "0:22:16.63"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:53:24",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1318",
+      "udpOutSegs": "1359",
+      "upTime": "0:22:21.77"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:53:29",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1330",
+      "udpOutSegs": "1371",
+      "upTime": "0:22:26.92"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:53:34",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1342",
+      "udpOutSegs": "1383",
+      "upTime": "0:22:32.03"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:53:39",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1354",
+      "udpOutSegs": "1395",
+      "upTime": "0:22:37.13"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:53:44",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1366",
+      "udpOutSegs": "1407",
+      "upTime": "0:22:42.24"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:53:49",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1378",
+      "udpOutSegs": "1419",
+      "upTime": "0:22:47.35"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:53:54",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1390",
+      "udpOutSegs": "1431",
+      "upTime": "0:22:52.45"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:53:59",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1402",
+      "udpOutSegs": "1443",
+      "upTime": "0:22:57.55"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:54:05",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1414",
+      "udpOutSegs": "1455",
+      "upTime": "0:23:02.67"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:54:10",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1426",
+      "udpOutSegs": "1467",
+      "upTime": "0:23:07.78"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:54:15",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1438",
+      "udpOutSegs": "1479",
+      "upTime": "0:23:12.88"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:54:20",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1450",
+      "udpOutSegs": "1491",
+      "upTime": "0:23:17.98"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:54:25",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1462",
+      "udpOutSegs": "1503",
+      "upTime": "0:23:23.08"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:54:30",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1474",
+      "udpOutSegs": "1515",
+      "upTime": "0:23:28.18"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:54:35",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1486",
+      "udpOutSegs": "1527",
+      "upTime": "0:23:33.28"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:54:40",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1498",
+      "udpOutSegs": "1539",
+      "upTime": "0:23:38.38"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:54:45",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1510",
+      "udpOutSegs": "1551",
+      "upTime": "0:23:43.48"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:54:50",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1522",
+      "udpOutSegs": "1563",
+      "upTime": "0:23:48.59"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:54:56",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1534",
+      "udpOutSegs": "1575",
+      "upTime": "0:23:53.69"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:55:01",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1546",
+      "udpOutSegs": "1587",
+      "upTime": "0:23:58.80"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:55:06",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1558",
+      "udpOutSegs": "1599",
+      "upTime": "0:24:03.91"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:55:11",
+      "tcpInSegs": "49",
+      "tcpOutSegs": "55",
+      "udpInSegs": "1570",
+      "udpOutSegs": "1611",
+      "upTime": "0:24:09.01"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:55:16",
+      "tcpInSegs": "61",
+      "tcpOutSegs": "66",
+      "udpInSegs": "1582",
+      "udpOutSegs": "1623",
+      "upTime": "0:24:14.11"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:55:21",
+      "tcpInSegs": "82",
+      "tcpOutSegs": "87",
+      "udpInSegs": "1594",
+      "udpOutSegs": "1635",
+      "upTime": "0:24:19.21"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:55:26",
+      "tcpInSegs": "82",
+      "tcpOutSegs": "87",
+      "udpInSegs": "1606",
+      "udpOutSegs": "1647",
+      "upTime": "0:24:24.32"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:55:31",
+      "tcpInSegs": "92",
+      "tcpOutSegs": "97",
+      "udpInSegs": "1618",
+      "udpOutSegs": "1659",
+      "upTime": "0:24:29.41"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:55:36",
+      "tcpInSegs": "112",
+      "tcpOutSegs": "117",
+      "udpInSegs": "1630",
+      "udpOutSegs": "1671",
+      "upTime": "0:24:34.51"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:55:41",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1642",
+      "udpOutSegs": "1683",
+      "upTime": "0:24:39.62"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:55:47",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1654",
+      "udpOutSegs": "1695",
+      "upTime": "0:24:44.72"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:55:52",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1666",
+      "udpOutSegs": "1707",
+      "upTime": "0:24:49.82"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:55:57",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1678",
+      "udpOutSegs": "1719",
+      "upTime": "0:24:54.93"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:56:02",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1690",
+      "udpOutSegs": "1731",
+      "upTime": "0:25:00.05"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:56:07",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1702",
+      "udpOutSegs": "1743",
+      "upTime": "0:25:05.19"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:56:12",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1714",
+      "udpOutSegs": "1755",
+      "upTime": "0:25:10.32"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:56:17",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1726",
+      "udpOutSegs": "1767",
+      "upTime": "0:25:15.44"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:56:22",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1738",
+      "udpOutSegs": "1779",
+      "upTime": "0:25:20.55"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:56:28",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1750",
+      "udpOutSegs": "1791",
+      "upTime": "0:25:25.69"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:56:33",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1762",
+      "udpOutSegs": "1803",
+      "upTime": "0:25:30.86"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:56:38",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1774",
+      "udpOutSegs": "1815",
+      "upTime": "0:25:36.02"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:56:43",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1786",
+      "udpOutSegs": "1827",
+      "upTime": "0:25:41.12"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:56:48",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1798",
+      "udpOutSegs": "1839",
+      "upTime": "0:25:46.23"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:56:53",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1810",
+      "udpOutSegs": "1851",
+      "upTime": "0:25:51.39"
+    },
+    {
+      "Maquina": "app-server",
+      "Fecha": "2020/06/14 19:56:58",
+      "tcpInSegs": "123",
+      "tcpOutSegs": "128",
+      "udpInSegs": "1822",
+      "udpOutSegs": "1863",
+      "upTime": "0:25:56.54"
+    }
+  ]
+}
