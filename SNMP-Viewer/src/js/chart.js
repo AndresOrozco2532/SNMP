@@ -6,6 +6,8 @@ function AdaptData(data) {
 
 		var tcpData = [];
 		var udpData = [];
+		$("#machine_name_tcp").append(`Nombre maquina: ${data.Datos[0].Maquina}`);
+		$("#machine_name_udp").append(`Nombre maquina: ${data.Datos[0].Maquina}`);
 		if (data.Datos.length > 25) {
 			data.Datos = data.Datos.slice(data.Datos.length - 25);
 		}
@@ -41,6 +43,7 @@ var graphTCP = Morris.Line({
 	hideHover: true,
 	xLabelAngle: 60,
 	lineColors: ["#FA8E33", "#FA3220"],
+	hideHover: false,
 });
 
 // UDP
@@ -55,6 +58,7 @@ var graphUDP = Morris.Line({
 	hideHover: true,
 	xLabelAngle: 60,
 	lineColors: ["#4B3BFA", "#30FA59"],
+	hideHover: false,
 });
 
 // Initial Values
