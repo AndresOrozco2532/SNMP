@@ -1,12 +1,3 @@
-$("#btn_conn_socket").click(function () {
-	var urlSocket = $.trim($("#url_socket").val());
-	if (urlSocket == "") alert("Debes ingresar una URL");
-	else {
-		$("#snmp_status").text("Conectando... ");
-		SetSocketConnection(urlSocket);
-	}
-});
-
 var graph = Morris.Line({
 	element: "tcpChart",
 	data: data(),
