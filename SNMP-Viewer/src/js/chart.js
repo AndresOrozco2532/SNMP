@@ -1,6 +1,33 @@
-var graph = Morris.Line({
+function AdaptData(data) {
+	if (data.Datos) {
+		var tcpData = [];
+		var udpData = [];
+		if (data.Datos.length > 25) {
+			data.Datos = data.Datos.slice(data.Datos.length - 25);
+		}
+		data.Datos.map((info) => {
+			// console.log(info);
+			tcpData.push({
+				Fecha: info.Fecha,
+				tcpInSegs: info.tcpInSegs,
+				tcpOutSegs: info.tcpOutSegs,
+			});
+
+			udpData.push({
+				Fecha: info.Fecha,
+				udpInSegs: info.tcpInSegs,
+				udpOutSegs: info.tcpOutSegs,
+			});
+		});
+
+		graphTCP.setData(tcpData);
+		graphUDP.setData(udpData);
+	}
+}
+
+var graphTCP = Morris.Line({
 	element: "tcpChart",
-	data: data(),
+	data: dataInitialTCP,
 	xkey: "Fecha",
 	ykeys: ["tcpInSegs", "tcpOutSegs"],
 	labels: ["tcpInSegs", "tcpOutSegs"],
@@ -10,26 +37,11 @@ var graph = Morris.Line({
 	xLabelAngle: 60,
 	lineColors: ["#FA8E33", "#FA3220"],
 });
-function data() {
-	var ret = [];
-	for (var x = 0; x <= 25; x++) {
-		ret.push({
-			Fecha: x,
-			tcpInSegs: Math.random() * 6,
-			tcpOutSegs: Math.random() * 5,
-		});
-	}
-	return ret;
-}
-function update() {
-	graph.setData(data());
-}
-// setInterval(update, 1000);
 
 // UDP
 var graphUDP = Morris.Line({
 	element: "udpChart",
-	data: dataUDP(),
+	data: dataInitialUDP,
 	xkey: "Fecha",
 	ykeys: ["updpInSegs", "udpOutSegs"],
 	labels: ["updpInSegs", "udpOutSegs"],
@@ -39,19 +51,22 @@ var graphUDP = Morris.Line({
 	xLabelAngle: 60,
 	lineColors: ["#4B3BFA", "#30FA59"],
 });
-function dataUDP() {
-	var ret = [];
-	for (var x = 0; x <= 15; x++) {
-		ret.push({
-			Fecha: x,
-			updpInSegs: Math.random() * 1,
-			udpOutSegs: Math.random() * 2,
-		});
-	}
-	return ret;
-}
-function updateUDP() {
-	graphUDP.setData(dataUDP());
-}
 
-// setInterval(updateUDP, 1000);
+// Initial Values
+var dataInitialTCP = [
+	{
+		Fecha: "2020/06/14 19:32:24",
+		tcpInSegs: "27",
+		tcpOutSegs: "33",
+		upTime: "0:01:21.81",
+	},
+];
+
+var dataInitialUDP = [
+	{
+		Fecha: "2020/06/14 19:32:24",
+		udpInSegs: "54",
+		udpOutSegs: "95",
+		upTime: "0:01:21.81",
+	},
+];

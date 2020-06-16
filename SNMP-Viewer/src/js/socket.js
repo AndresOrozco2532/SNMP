@@ -11,7 +11,7 @@ $("#btn_conn_socket").click(function () {
 			// $("#btn_desc_socket").show();
 		});
 		socket.on("file:change", (data) => {
-			console.log("File", data);
+			AdaptData(JSON.parse(data));
 		});
 		// socket.connect(urlSocket);
 	}
