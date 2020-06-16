@@ -6,6 +6,8 @@ function AdaptData(data) {
 
 		var tcpData = [];
 		var udpData = [];
+		$("#machine_name_tcp").empty();
+		$("#machine_name_udp").empty();
 		$("#machine_name_tcp").append(`Nombre maquina: ${data.Datos[0].Maquina}`);
 		$("#machine_name_udp").append(`Nombre maquina: ${data.Datos[0].Maquina}`);
 		if (data.Datos.length > 25) {
