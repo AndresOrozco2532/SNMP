@@ -1,15 +1,8 @@
 function AdaptData(data) {
 	if (data.Datos) {
-		$("#empty-container").hide();
-		// $("#graphics-container").show();
-		$("#graphics-container").css("visibility", "visible");
-
+		AdaptElements(data);
 		var tcpData = [];
 		var udpData = [];
-		$("#machine_name_tcp").empty();
-		$("#machine_name_udp").empty();
-		$("#machine_name_tcp").append(`Nombre maquina: ${data.Datos[0].Maquina}`);
-		$("#machine_name_udp").append(`Nombre maquina: ${data.Datos[0].Maquina}`);
 		if (data.Datos.length > 25) {
 			data.Datos = data.Datos.slice(data.Datos.length - 25);
 		}
@@ -32,6 +25,29 @@ function AdaptData(data) {
 		graphUDP.setData(udpData);
 	}
 }
+
+function AdaptElements(data) {
+	$("#empty-container").hide();
+	// $("#graphics-container").show();
+	$("#graphics-container").css("visibility", "visible");
+	$("#machine_name_tcp").empty();
+	$("#machine_name_udp").empty();
+	$("#machine_name_tcp").append(`${data.Datos[0].Maquina}`);
+	$("#machine_name_udp").append(`${data.Datos[0].Maquina}`);
+	$("#time_tcp").empty();
+	$("#time_udp").empty();
+	$("#time_tcp").append(
+		`Inicio: ${data.Datos[0].Fecha} <br/> Fin: ${
+			data.Datos[data.Datos.length - 1].Fecha
+		}`
+	);
+	$("#time_udp").append(
+		`Inicio: ${data.Datos[0].Fecha} <br/> Fin: ${
+			data.Datos[data.Datos.length - 1].Fecha
+		}`
+	);
+}
+
 $("#graphics-container").css("visibility", "hidden");
 $("#empty-container").show();
 var graphTCP = Morris.Line({
