@@ -25,3 +25,11 @@ function onConnectionError() {
 		.removeClass("text-warning text-success")
 		.addClass("text-danger");
 }
+// Toggle the side navigation
+$("#sidebarToggle").on("click", function (e) {
+	$("body").toggleClass("sidebar-toggled");
+	$(".sidebar").toggleClass("toggled");
+	if ($(".sidebar").hasClass("toggled")) {
+		$(".sidebar .collapse").collapse("hide");
+	}
+});
