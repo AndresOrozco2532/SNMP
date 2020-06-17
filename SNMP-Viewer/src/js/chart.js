@@ -43,13 +43,27 @@ function AdaptElements(data) {
 			}`
 		);
 		$("#time_machine").empty();
-		$("#time_machine").append(`${data.Datos[data.Datos.length - 1].upTime}`);
+		$("#time_machine").append(
+			ConvertTickToDate(data.Datos[data.Datos.length - 1].upTime)
+		);
 		$("#variables").empty();
 		$("#variables").append(`${propStr}`);
 	}
 }
 
-function ConvertTickToDate() {}
+function ConvertTickToDate(ticksInSecs) {
+	var ticks = ticksInSecs;
+	var hh = Math.floor(ticks / 3600);
+	var mm = Math.floor((ticks % 3600) / 60);
+	var ss = ticks % 60;
+
+	return pad(hh, 2) + ":" + pad(mm, 2) + ":" + pad(ss, 2);
+}
+
+function pad(n, width) {
+	var n = n + "";
+	return n.length >= width ? n : new Array(width - n.length + 1).join("0") + n;
+}
 
 $("#graphics-container").css("visibility", "hidden");
 $("#empty-container").show();
